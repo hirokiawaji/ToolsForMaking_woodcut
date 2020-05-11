@@ -27,8 +27,14 @@
   list-style: none;
   font-family:serif;
   font-size:24px;
-}
+  margin-top:30px;
 
+}
+.main a{
+  text-decoration: none;
+  color:black;
+  font-weight:bold;
+}
 .footer ul{
   margin-top:0px;
 }
