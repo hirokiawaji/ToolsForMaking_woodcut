@@ -35,6 +35,12 @@
   color:black;
   font-weight:bold;
 }
+.mgr1{
+  margin-right:30px;
+}
+.mgr2{
+  margin-right:100px;
+}
 .footer ul{
   margin-top:0px;
 }
