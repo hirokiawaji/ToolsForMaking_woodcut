@@ -23,9 +23,10 @@
   height:50px;
 }
 .main li{
-  display:inline-block;
-  width:14%;
+  width:100%;
   list-style: none;
+  font-family:serif;
+  font-size:24px;
 }
 
 .footer ul{
