@@ -64,7 +64,7 @@ h2{
   height: 7px;
   background: repeating-linear-gradient(-45deg, #F5A500, #F5A500 2px, white 2px, white 4px);
 }
-.mgr1,.mgr2 {
+.mgr1,.mgr2:after {
   content: '';
   position: absolute;
   left: 0;
